@@ -1,22 +1,22 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = 'hola';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = '4';
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = 'True';
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+const nuevaResta = '10 - 5 === 5';
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * null === 40 ;
+const nuevaMultiplicacion = '10 * 4 === 40' ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = '21 % 5 === 4,2';
 
 
 // En los próximos 22 problemas, deberás completar la función.
@@ -60,6 +60,10 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
+  if: 1 is =< 199 
+    print:true
+  else:
+    print:false
   
 }
 
@@ -81,7 +85,7 @@ function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+  if 
 }
 
 function obtenerResto(x, y) {
