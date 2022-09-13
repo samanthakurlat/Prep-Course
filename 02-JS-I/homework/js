@@ -1,0 +1,5 @@
+Variables:es donde se almacenan diferentes tipos de datos que se guardan para usarlos mas tarde 
+Strings:es un clase de dato que contiene  textos
+Funciones (argumentos, return):es un grupo de codigos que sirven para que hagan una tarea
+Declaraciones if: si en un codigo yo digo que algo ocurre y  de hecho es correcto  realizara una tarea, si en cambio no ocurre me devolvera que no
+Valores booleanos (true, false):son un tipo de dato que consiste en si algo es verdadero o falso
